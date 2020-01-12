@@ -1,0 +1,8 @@
+CC = g++
+
+OBJS = LinearSearch.cpp
+
+OBJ_NAME = LinearSearch
+
+all :
+	$(CC) $(OBJS) -std=c++11 -o $(OBJ_NAME)

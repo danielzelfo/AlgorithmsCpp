@@ -1,0 +1,2 @@
+language = "cpp"
+run = "make -f make.bin && make -f make.lin && ./LinearSearch && ./BinarySearch"

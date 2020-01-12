@@ -1,0 +1,8 @@
+CC = g++
+
+OBJS = BinarySearch.cpp
+
+OBJ_NAME = BinarySearch
+
+all :
+	$(CC) $(OBJS) -std=c++11 -o $(OBJ_NAME)
