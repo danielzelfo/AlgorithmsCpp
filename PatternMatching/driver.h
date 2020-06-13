@@ -26,7 +26,7 @@
 
 void outputMatch(string T, string P);
 
-int main()
+void patternMatchingMain()
 {
 	
 
