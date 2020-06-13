@@ -19,7 +19,7 @@ using namespace std;
 
 int lcs(string t, string p);
 
-int main()
+void longestCommonSubsequenceMain()
 {
     string x, y;
     cout << "Enter string 1: ";
