@@ -21,7 +21,7 @@
 using namespace std;
 
 
-int main()
+void integerBucketSortMain()
 {
     const int arrSize = 100;
     const int range = 1000;
