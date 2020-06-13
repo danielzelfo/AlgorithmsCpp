@@ -25,7 +25,7 @@ using namespace std;
 
 template <typename T> void printSet(Set<T>);
 
-int main()
+void setOperationsMain()
 {
     //two lists
     list<int> a{ 1, 3, 5, 5, 7, 9 };
