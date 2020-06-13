@@ -22,7 +22,7 @@
 
 using namespace std;
 
-int main()
+void quickSelectMain()
 {
     //vectors to hold data
     vector<int> arr10, arr1k, arr100k;
