@@ -15,7 +15,7 @@
 
 #include "MemoryManagement.h"
 
-int main()
+void memoryManagementMain()
 {
     MemoryManagement mm;
 
