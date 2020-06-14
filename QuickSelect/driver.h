@@ -58,7 +58,7 @@ void quickSelectMain()
 
 
     //filling the array with 1000 elements from the file
-    string filename = "small1k.txt";
+    string filename = "QuickSelect/small1k.txt";
     cout << "Array number 2 from " << filename << endl;
     ifstream myfile(filename);
     if (myfile.is_open()) {
@@ -78,7 +78,7 @@ void quickSelectMain()
     cout << endl;
 
     //filling the array with 100000 elements from the file
-    filename = "large100k.txt";
+    filename = "QuickSelect/large100k.txt";
     cout << "Array number 3 from " << filename << endl;
     myfile.open(filename);
     if (myfile.is_open()) {
