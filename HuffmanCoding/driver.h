@@ -17,7 +17,7 @@
 #include <iostream>
 #include "HuffmanCoding.h"
 
-int main() {
+void huffmanCodingMain() {
     //Huffman coding tree with input and output file
     HuffmanCoding hc("moneyIn.txt", "moneyOut.txt");
 }
