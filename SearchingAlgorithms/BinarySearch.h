@@ -13,7 +13,7 @@ using namespace std;
 int binarySearch(int arr[], int size, int target);
 int recursiveBinarySearch(int arr[], int size, int target, int l = 0);
 
-int main()
+void binarySearchMain()
 {
 	//setting array
 	const int maxsize = 5;

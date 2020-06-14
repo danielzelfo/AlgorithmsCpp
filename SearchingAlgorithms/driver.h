@@ -8,6 +8,7 @@
 */
 
 #include <iostream>
+#include "BinarySearch.h"
 using namespace std;
 
 
@@ -16,7 +17,7 @@ int linearSearch(int arr[], int size, int target);
 int highestLinearSearch(int arr[], int size);
 int recursiveLinearSearch(int arr[], int size, int target, int index = 0);
 
-int main()
+void searchingAlgorithmsMain()
 {
 	//setting array
 	const int maxSize = 10;
@@ -35,6 +36,10 @@ int main()
 		<< "Recursive Linear Search: " << endl
 		<< "2 is in the array? " << ((recursiveLinearSearch(arr, maxSize, 2) != -1) ? "true" : "false") << endl
 		<< "21 is in the array? " << ((recursiveLinearSearch(arr, maxSize, 21) != -1) ? "true" : "false") << endl << endl;
+		
+		
+		
+	binarySearchMain();
 }
 
 //the iterative linear search
