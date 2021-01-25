@@ -15,7 +15,7 @@
 
 
 #include <iostream>
-#include "HuffmanCoding.h"
+#include "HuffmanCoding.hpp"
 
 void huffmanCodingMain() {
     //Huffman coding tree with input and output file

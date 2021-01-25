@@ -13,7 +13,7 @@
  *
  */
 
-#include "MemoryManagement.h"
+#include "MemoryManagement.hpp"
 
 void memoryManagementMain()
 {

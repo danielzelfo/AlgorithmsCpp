@@ -2,14 +2,14 @@
 //
 
 #include <iostream>
-#include "MemoryManagement/driver.h"
-#include "PatternMatching/driver.h"
-#include "LongestCommonSubsequence/driver.h"
-#include "SetOperations/driver.h"
-#include "QuickSelect/driver.h"
-#include "IntegerBucketSort/driver.h"
-#include "HuffmanCoding/driver.h"
-#include "SearchingAlgorithms/driver.h"
+#include "MemoryManagement/driver.hpp"
+#include "PatternMatching/driver.hpp"
+#include "LongestCommonSubsequence/driver.hpp"
+#include "SetOperations/driver.hpp"
+#include "QuickSelect/driver.hpp"
+#include "IntegerBucketSort/driver.hpp"
+#include "HuffmanCoding/driver.hpp"
+#include "SearchingAlgorithms/driver.hpp"
 
 using namespace std;
 

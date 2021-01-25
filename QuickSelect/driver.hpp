@@ -17,8 +17,8 @@
 #include <vector>
 #include <time.h>
 
-#include "Comparator.h"
-#include "QuickSelect.h"
+#include "Comparator.hpp"
+#include "QuickSelect.hpp"
 
 using namespace std;
 

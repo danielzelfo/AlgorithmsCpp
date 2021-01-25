@@ -11,7 +11,7 @@ Another function in this program is one that gets the highest value in an array 
 */
 
 #include <iostream>
-#include "BinarySearch.h"
+#include "BinarySearch.hpp"
 using namespace std;
 
 

@@ -1,5 +1,5 @@
 #pragma once
-#include "Merge.h"
+#include "Merge.hpp"
 
 template <typename E>					// set union
 class UnionMerge : public Merge<E> {

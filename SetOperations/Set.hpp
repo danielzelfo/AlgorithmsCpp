@@ -2,9 +2,9 @@
 #include <list>
 #include <map>
 
-#include "UnionMerge.h"
-#include "IntersectMerge.h"
-#include "SubtractMerge.h"
+#include "UnionMerge.hpp"
+#include "IntersectMerge.hpp"
+#include "SubtractMerge.hpp"
 
 template <typename E>
 class Set {

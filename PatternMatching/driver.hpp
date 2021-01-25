@@ -21,8 +21,8 @@
 
 #include <iostream>
 
-#include "KMPmatch.h"
-#include "BMmatch.h"
+#include "KMPmatch.hpp"
+#include "BMmatch.hpp"
 
 void outputMatch(string T, string P);
 

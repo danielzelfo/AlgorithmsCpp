@@ -1,5 +1,5 @@
 #pragma once
-#include "Merge.h"
+#include "Merge.hpp"
 
 template <typename E>					// set intersection
 class IntersectMerge : public Merge<E> {

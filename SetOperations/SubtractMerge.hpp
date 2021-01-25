@@ -1,5 +1,5 @@
 #pragma once
-#include "Merge.h"
+#include "Merge.hpp"
 
 template <typename E>					// set subtraction
 class SubtractMerge : public Merge<E> {

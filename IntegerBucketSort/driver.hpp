@@ -16,7 +16,7 @@
 #include <vector>
 #include <time.h>
 
-#include "BucketSort.h"
+#include "BucketSort.hpp"
 
 using namespace std;
 
