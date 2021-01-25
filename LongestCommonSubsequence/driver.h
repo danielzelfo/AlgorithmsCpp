@@ -2,8 +2,8 @@
  *	Author: Daniel Zelfo
  *	Class: CSCI 230
  *	Date: 4/27/2020
- *	Description: This program includes the lcs function, which takes two strings as paramters
- *               The lcs function returns the length of the longest common subsequence(lcs) and print the lcs using a dynamic programming approach
+ *	Description: This program includes the lcs function, which takes two strings as parameters.
+ *               The lcs function returns the length of the longest common subsequence(lcs) and prints the lcs using a dynamic programming approach.
  *
  * I certify that the code below is my own work.
  *

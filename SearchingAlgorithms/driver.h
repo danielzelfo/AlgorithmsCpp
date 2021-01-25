@@ -3,8 +3,11 @@
 * Class: CSCI 140
 * Program: Linear Search
 * Date: 10/28/2019
-* Description: This program implements searching an integer array for one value linearly. Two functions exist to do this: an iterative one and a recursive one.
-				Another function in this program is one that gets the highest value in an array linearly
+* Description: This program implements the binary search algorithm in two functions: an iterative one and a recursive one.
+ *               This program implements searching an integer array for one value linearly.
+ *               Two functions exist to do this: an iterative one and a recursive one.
+Another function in this program is one that gets the highest value in an array linearly.
+ *				 Another function in this program is one that gets the highest value in an array linearly.
 */
 
 #include <iostream>

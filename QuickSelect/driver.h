@@ -2,9 +2,9 @@
  *	Author: Daniel Zelfo
  *	Class: CSCI 230
  *	Date: 4/6/2020
- *	Description: This program includes a function that find the kth smallest element using a variation of the randomized quicksort algorithm
- *               This algorithm can find the the kth smallest element in a linear worst case running time
- *               This is done by using the prune-and search design pattern which gets rid of the portion of the data being observed in each recusive call based on the value of k
+ *	Description: This program includes a function that finds the kth smallest element using a variation of the randomized quicksort algorithm.
+ *               This algorithm can find the kth smallest element in a linear worst-case running time.
+ *               This is done by using the prune-and search design pattern which gets rid of the portion of the data being observed in each recursive call based on the value of k.
  *
  * I certify that the code below is my own work.
  *
